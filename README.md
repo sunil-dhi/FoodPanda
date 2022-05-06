@@ -1,4 +1,19 @@
 # Getting Started with Create React App
+Home page (Landing Page)
+![Screenshot (176)](https://user-images.githubusercontent.com/73747313/167048671-ef2ba639-6dc1-44d9-ac6b-eb0eef19f198.png)
+
+![Screenshot (177)](https://user-images.githubusercontent.com/73747313/167048685-51400d2f-acf5-4366-beb4-315d1651e92b.png)
+
+Men list
+![Screenshot (178)](https://user-images.githubusercontent.com/73747313/167048712-f6453835-6783-426d-99f7-196767e0ae23.png)
+
+About us page
+![Screenshot (179)](https://user-images.githubusercontent.com/73747313/167048725-fa4c2eaf-1e0b-4e4e-bacf-28b4c3411d72.png)
+
+Contact us page
+
+![Screenshot (180)](https://user-images.githubusercontent.com/73747313/167048738-7ffced8e-087a-48c0-a75d-a6c04a1da2d1.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
