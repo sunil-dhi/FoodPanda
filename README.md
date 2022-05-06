@@ -4,7 +4,7 @@ Home page (Landing Page)
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/73747313/167048685-51400d2f-acf5-4366-beb4-315d1651e92b.png)
 
-Men list
+Menu list page
 ![Screenshot (178)](https://user-images.githubusercontent.com/73747313/167048712-f6453835-6783-426d-99f7-196767e0ae23.png)
 
 About us page
